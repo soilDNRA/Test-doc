@@ -2,4 +2,4 @@ This is *markdown*
 
 ### this is a heading
 
-## this is also a 
+## this is also a head
