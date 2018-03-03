@@ -4,4 +4,4 @@ This is *markdown*
 
 ## this is also a heading
 
-|talb
+|table 
