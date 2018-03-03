@@ -6,4 +6,4 @@ This is *markdown*
 
 |table heading 1 |heading 2|yet more|
 |----------------|---------|--------|
-
+|
