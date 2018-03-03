@@ -7,5 +7,5 @@ This is *markdown*
 |table heading 1 |heading 2|yet more|
 |:---------------|:-------:|-------:|
 |left aligned    |centre   |right   |
-|blahdiblah      |blah!    |blue    |
+|blahdiblah      |blah!    |blue|
 
